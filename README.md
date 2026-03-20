@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | AI & ML Enthusiast | Python Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Turning+Data+into+Insights;Building+AI+Solutions;Python+%7C+SQL+%7C+Machine+Learning;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Turning+Data+into+Insights;Building+AI+Solutions;Python+%7C+SQL+%7C+Machine+Learning;Always+Learning+New+Things&center=true&width=600&height=50&color=00FFAA&vCenter=true&size=22">
 </p>
 
 ---
@@ -11,7 +11,7 @@
 
 I am a Final Year BSc IT student with a strong interest in Data Analytics, Artificial Intelligence, and solving real-world problems using data.
 
-I enjoy working with data — from cleaning and preprocessing to analyzing and extracting meaningful insights that help in decision-making. Alongside this, I am also building AI-based applications to understand how intelligent systems work in real-world scenarios.
+I enjoy working with data — from cleaning and preprocessing to analyzing and extracting meaningful insights that help in decision-making. I also build AI-based applications to understand how intelligent systems work in real-world scenarios.
 
 - 📊 Skilled in Python, Pandas, NumPy & SQL  
 - 🤖 Building AI/ML-based projects  
@@ -48,15 +48,15 @@ I enjoy working with data — from cleaning and preprocessing to analyzing and e
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishikesh0405&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishikesh0405&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikesh0405&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikesh0405&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rishikesh0405&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=Rishikesh0405&theme=tokyonight" />
 </p>
 
 ---
@@ -64,9 +64,9 @@ I enjoy working with data — from cleaning and preprocessing to analyzing and e
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"></a>
-  <a href="https://your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=google-chrome"></a>
+  <a href="https://www.linkedin.com/in/rishikesh-c-085513262/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://x.com/RishikeshC522"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter"></a>
+  <a href="https://rishikesh0405.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome"></a>
 </p>
 
 ---
