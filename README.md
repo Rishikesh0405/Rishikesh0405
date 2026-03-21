@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | AI & ML Enthusiast | Python Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Turning+Data+into+Insights;Building+AI+Solutions;Python+%7C+SQL+%7C+FastAPI;C+%7C+C%2B%2B+%7C+Java;Always+Learning+New+Things&center=true&width=650&height=50&color=00FFAA&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Turning+Data+into+Insights;Building+AI+Solutions;Python+%7C+SQL+%7C+FastAPI;C+%7C+C%2B%2B+%7;Always+Learning+New+Things&center=true&width=650&height=50&color=00FFAA&vCenter=true&size=22">
 </p>
 
 ---
