@@ -16,7 +16,7 @@ I enjoy working with data — from cleaning and preprocessing to analyzing and e
 Along with data analytics, I also explore backend development and AI-based applications to understand how intelligent systems are designed and deployed in real-world environments.
 
 - 📊 Strong foundation in Python, Pandas, NumPy & SQL  
-- 💻 Experience with C, C++, and Java  
+- 💻 Experience with C, C++ 
 - ⚡ Backend development using FastAPI  
 - 🤖 Building AI/ML-based projects and applications  
 - 📈 Focused on data-driven decision making and problem-solving  
@@ -33,7 +33,6 @@ I am actively looking for opportunities where I can apply my skills, contribute 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java)
 
 ### 📊 Data & AI
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
